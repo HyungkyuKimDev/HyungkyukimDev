@@ -2,7 +2,7 @@
 
 # About me
 
-Hi! I'm Hyungkyu Kim, a Java Server-Side Developer at Tenda(株式会社テンダ).    
+Hi! I'm ***Hyungkyu Kim***, a ***Java Server-Side Developer*** of ***Tenda(株式会社テンダ)***.    
 I'd like to help people who have problems and trust that I can get better every single day!     
 If you have any questions, please feel free to reach out through any of the channels listed below this page. 
 
@@ -10,7 +10,7 @@ If you have any questions, please feel free to reach out through any of the chan
 
 # Experience
 
-1. [株式会社テンダ](https://www.tenda.co.jp/) (2024/04/01 ~ Now)
+1. ***[株式会社テンダ](https://www.tenda.co.jp/)*** (2024/04/01 ~ Now)
     - Server-Side Developer
 <br></br>
 
@@ -26,14 +26,14 @@ Java8 , Python , PHP , Ruby , PostgreSQL
 Git , AWS , Apache
 
 ## Language
-Korean 
+***Korean*** 
 - As a Korean, I have no difficulty in using the Korean language.
 
-Japanese 
+***Japanese*** 
 - I acquired the JLPT N2 certification in December 2022 and am capable of using Japanese at a business level. 
 - Moreover, I have experience residing in Japan and working for a company there.
 
-English
+***English***
 - I scored 875 on the TOEIC exam in January 2022 
 - And have over 6 months of experience teaching Korean to English-speaking students on the language education platform Preply, dedicating at least 30 hours per week. 
 - I am proficient in English at a business level.

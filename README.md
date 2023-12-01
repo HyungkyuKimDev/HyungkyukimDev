@@ -9,8 +9,9 @@ If you have any questions, please feel free to reach out through any of the chan
 
 # Experience
 
-1. ***[株式会社テンダ](https://www.tenda.co.jp/)*** (2024/04/01 ~ Now)
-    - Server-Side Developer
+## [株式会社テンダ](https://www.tenda.co.jp/) (2024/04/01 ~ Now)
+- Server-Side Developer
+
 <br></br>
 
 # Stack

@@ -49,6 +49,19 @@ If you have any questions, please feel free to reach out through any of the chan
     It can be your friend. And If you want to change ChatGPT's prompt, then you can make other Chat Assistant easily.
 <br></br>
 
+# Education
+[MYOUNGJI UNIVERSITY](https://www.mju.ac.kr/mjukr/index.do) (2017/03/01 ~ 2024/02)
+- Degree: Bachelor of Smart Embedded Mechanical System (Double Major in Mechanical Engineering, Electrical Engineering, and Electronic Engineering)   
+- GPA: 3.5/4.5
+- Relevant Courseworks:
+    - Data Structure and Algorith
+    - Embedded System
+    - MicroProcessor
+    - Thermodynamics
+    - Solid mechanics
+
+<br></br>
+
 # Channel
 
 1. [Resume](https://hyungkyukimdev.github.io/)   

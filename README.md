@@ -5,7 +5,6 @@
 Hi! I'm ***Hyungkyu Kim***, a ***Java Server-Side Developer*** of ***Tenda(株式会社テンダ)***.    
 I'd like to help people who have problems and trust that I can get better every single day!     
 If you have any questions, please feel free to reach out through any of the channels listed below this page. 
-
 <br></br>
 
 # Experience
@@ -17,13 +16,16 @@ If you have any questions, please feel free to reach out through any of the chan
 # Stack
 ## Programing
 ### Front Side
-HTML , CSS , Javascript 
+<img src="./img/html.png"> , <img src="./img/css.png"> , <img src="./img/javascript.png"> 
 
 ### Server Side & Database
-Java8 , Python , PHP , Ruby , PostgreSQL
+<img src="./img/java.png"> , <img src="./img/python.png"> , <img src="./img/postgresql.png">
 
 ### Other
-Git , AWS , Apache
+<img src="./img/git.png"> , <img src="./img/aws.png"> , <img src="./img/apache.png"> , <img src="./img/linux.png">
+
+## Communication Tool
+<img src="./img/slack.png">
 
 ## Language
 ***Korean*** 

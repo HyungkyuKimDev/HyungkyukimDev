@@ -2,7 +2,7 @@
 
 # About me
 
-Hi! I'm ***Hyungkyu Kim***, a ***Java Server-Side Developer*** of ***Tenda(株式会社テンダ)***.    
+Hi! I'm ***Hyungkyu Kim***, a ***Java Server-Side Developer*** of <b>[Tenda(株式会社テンダ)](https://www.tenda.co.jp/)</b>.  
 I'd like to help people who have problems and trust that I can get better every single day!     
 If you have any questions, please feel free to reach out through any of the channels listed below this page. 
 <br></br>
@@ -22,11 +22,13 @@ If you have any questions, please feel free to reach out through any of the chan
 ### Server Side & Database
 <img src="./img/java.png"> , <img src="./img/python.png"> , <img src="./img/postgresql.png">
 
-### Other
+### Other 
 <img src="./img/git.png"> , <img src="./img/aws.png"> , <img src="./img/apache.png"> , <img src="./img/linux.png">
 
-## Communication Tool
+### Communication Tool
 <img src="./img/slack.png">
+
+<br></br>
 
 ## Language
 ***Korean*** 

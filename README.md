@@ -2,7 +2,7 @@
 
 # About me
 
-Hi! I'm ***Hyungkyu Kim***, a ***Java Server-Side Developer*** of <b>[Tenda(株式会社テンダ)](https://www.tenda.co.jp/)</b>.  
+Hi! I'm <b>Hyungkyu Kim</b>, a <b>Java Server-Side Developer</b> of <b>[Tenda(株式会社テンダ)](https://www.tenda.co.jp/)</b>.  
 I'd like to help people who have problems and trust that I can get better every single day!     
 If you have any questions, please feel free to reach out through any of the channels listed below this page. 
 <br></br>
@@ -52,6 +52,15 @@ If you have any questions, please feel free to reach out through any of the chan
     It can be your friend. And If you want to change ChatGPT's prompt, then you can make other Chat Assistant easily.
 <br></br>
 
+
+# Award
+1. [2nd Prize, Capstone Degisn Contest in MJU](https://www.mju.ac.kr/eciems/index.do)    
+    <img src="./img/robot_mj.jpg">
+    - Stack : Python , C , C++ , ROS2: Humble Hawksbill , Ubuntu 22.04 Jammy Jellyfish(Orange Pi Plus) , ChatGPT , Naver CLOUD , Twilio      
+    - A Companion robot Myoung-ja for elderly individuals living alone   
+    - [Youtube Link](https://youtu.be/FfN0cjAcmhg)
+    - [Github Link](https://github.com/MJU-Capstone-PetRobot/mjbot_2023)
+
 # Education
 [MYOUNGJI UNIVERSITY](https://www.mju.ac.kr/mjukr/index.do) (2017/03/01 ~ 2024/02)
 - Degree: Bachelor of Smart Embedded Mechanical System (Double Major in Mechanical Engineering, Electrical Engineering, and Electronic Engineering)   
@@ -62,8 +71,8 @@ If you have any questions, please feel free to reach out through any of the chan
     - MicroProcessor
     - Thermodynamics
     - Solid mechanics
-
 <br></br>
+
 
 # Channel
 

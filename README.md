@@ -55,7 +55,7 @@ If you have any questions, please feel free to reach out through any of the chan
 
 # Award
 1. [2nd Prize, Capstone Degisn Contest in MJU](https://www.mju.ac.kr/eciems/index.do)    
-    <img src="./img/robot_mj.jpg">
+    <a src="https://github.com/MJU-Capstone-PetRobot/mjbot_2023"><img src="./img/robot_mj.jpg" width="120px" height="120px" style="border-radius:70%"></a>
     - Stack : Python , C , C++ , ROS2: Humble Hawksbill , Ubuntu 22.04 Jammy Jellyfish(Orange Pi Plus) , ChatGPT , Naver CLOUD , Twilio      
     - A Companion robot Myoung-ja for elderly individuals living alone   
     - [Youtube Link](https://youtu.be/FfN0cjAcmhg)

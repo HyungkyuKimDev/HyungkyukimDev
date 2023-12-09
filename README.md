@@ -54,7 +54,7 @@ If you have any questions, please feel free to reach out through any of the chan
 
 
 # Award
-1. [2nd Prize, Capstone Degisn Contest in MJU](https://www.mju.ac.kr/eciems/index.do)    
+1. [2nd Prize, Capstone Degisn Contest in MYOUNGJI UNIVERSITY](https://www.mju.ac.kr/eciems/index.do)    
     <a src="https://github.com/MJU-Capstone-PetRobot/mjbot_2023"><img src="./img/robot_mj.jpg" width="120px" height="120px" style="border-radius:70%"></a>
     - Stack : Python , C , C++ , ROS2: Humble Hawksbill , Ubuntu 22.04 Jammy Jellyfish(Orange Pi Plus) , ChatGPT , Naver CLOUD , Twilio      
     - A Companion robot Myoung-ja for elderly individuals living alone   
@@ -62,7 +62,7 @@ If you have any questions, please feel free to reach out through any of the chan
     - [Github Link](https://github.com/MJU-Capstone-PetRobot/mjbot_2023)
 
 # Education
-[MYOUNGJI UNIVERSITY](https://www.mju.ac.kr/mjukr/index.do) (2017/03/01 ~ 2024/02)
+[MYOUNGJI UNIVERSITY, Republic of Korea](https://www.mju.ac.kr/mjukr/index.do) (2017/03/01 ~ 2024/02)
 - Degree: Bachelor of Smart Embedded Mechanical System (Double Major in Mechanical Engineering, Electrical Engineering, and Electronic Engineering)   
 - GPA: 3.5/4.5
 - Relevant Courseworks:

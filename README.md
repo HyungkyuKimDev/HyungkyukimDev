@@ -31,14 +31,14 @@ If you have any questions, please feel free to reach out through any of the chan
 <br></br>
 
 ## Language
-***Korean*** 
+<b>Korean</b>
 - As a Korean, I have no difficulty in using the Korean language.
 
-***Japanese*** 
+<b>Japanese</b>
 - I acquired the JLPT N2 certification in December 2022 and am capable of using Japanese at a business level. 
 - Moreover, I have experience residing in Japan and working for a company there.
 
-***English***
+<b>English</b>
 - I scored 875 on the TOEIC exam in January 2022 
 - And have over 6 months of experience teaching Korean to English-speaking students on the language education platform Preply, dedicating at least 30 hours per week. 
 - I am proficient in English at a business level.

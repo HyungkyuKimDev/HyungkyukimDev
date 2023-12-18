@@ -54,10 +54,26 @@ If you have any questions, please feel free to reach out through any of the chan
 
 
 # Award
-1. [2nd Prize, Capstone Degisn Contest in MYOUNGJI UNIVERSITY](https://www.mju.ac.kr/eciems/index.do)    
+1. [2nd place in MJU SEP Fusion Festival, 2021](https://www.mju.ac.kr/eciems/index.do)   
+    - Stack : Fusion360, 3D printer , Arduino
+    - Smart Compression Bin
+        - When people reach their hand near Bin. It opens automatically by ULTRASONIC SENSOR.
+            So, People can throw trash without touching that Bin.
+            And when the amount of trash in Bin is over the standard that we predetermined by ULTRASONIC SENSOR.
+            It compresses itself automatically by linear actuator. Then, we can use the Bin much more usefully.
+            And also we can know that amount in web using Wi-Fi module. It can help people who manage Bin can work more efficiently.
+    - My team is consisted of 3 members. I'm in charge of Product Design
+    - [Youtube Link](https://www.youtube.com/watch?v=JbwHst7UF98&ab_channel=%EA%B9%80%ED%98%95%EA%B7%9C)
+
+<br></br>
+
+2. [Silver Award in the Myongji University Capstone Design, 2023](https://www.mju.ac.kr/eciems/index.do)    
     <a src="https://github.com/MJU-Capstone-PetRobot/mjbot_2023"><img src="./img/robot_mj.jpg" width="120px" height="120px" style="border-radius:70%"></a>
     - Stack : Python , C , C++ , ROS2: Humble Hawksbill , Ubuntu 22.04 Jammy Jellyfish(Orange Pi Plus) , ChatGPT , Naver CLOUD , Twilio      
     - A Companion robot Myoung-ja for elderly individuals living alone   
+        - In the 2023 Myongji University Capstone Design Competition, our team won the Silver Award. The competition focused on products developed with embedded technology, and students from the Electrical Engineering, Electronic Engineering, and Mechanical Engineering departments formed teams.
+        - Our team designed a companion robot for the elderly. This robot offers mobility alone or the option to accompany the user on a walk. It can engage in conversations with the user, control movements, and manage battery usage through dialogue. Additionally, it features sensors to detect user falls or potential fires, allowing it to send emergency messages when needed.
+
     - [Youtube Link](https://youtu.be/FfN0cjAcmhg)
     - [Github Link](https://github.com/MJU-Capstone-PetRobot/mjbot_2023)
 

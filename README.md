@@ -40,7 +40,7 @@ If you have any questions, please feel free to reach out through any of the chan
 
 <b>English</b>
 - I scored 875 on the TOEIC exam in January 2022 
-- And have over 6 months of experience teaching Korean to English-speaking students on the language education platform Preply, dedicating at least 30 hours per week. 
+- And have over 6 months of experience teaching Korean to English-speaking students on the language education platform [Preply](https://preply.com/), dedicating at least 30 hours per week. 
 - I am proficient in English at a business level.
 <br></br>
 

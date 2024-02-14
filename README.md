@@ -80,7 +80,7 @@ If you have any questions, please feel free to reach out through any of the chan
 # Education
 [MYOUNGJI UNIVERSITY, Republic of Korea](https://www.mju.ac.kr/mjukr/index.do) (2017/03/01 ~ 2024/02)
 - Degree: Bachelor of Smart Embedded Mechanical System (Double Major in Mechanical Engineering, Electrical Engineering, and Electronic Engineering)   
-- GPA: 3.5/4.5
+- GPA: 3.48/4.5
 - Relevant Courseworks:
     - Data Structure and Algorith
     - Embedded System

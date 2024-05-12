@@ -20,7 +20,7 @@ If you have any questions, please feel free to reach out through any of the chan
 <img src="./img/html.png"> , <img src="./img/css.png"> , <img src="./img/javascript.png"> 
 
 ### Server Side & Database
-<img src="./img/java.png"> , <img src="./img/python.png"> 
+<img src="./img/python.png"> 
 
 ### Other 
 <img src="./img/git.png"> , <img src="./img/aws.png"> , <img src="./img/apache.png"> , <img src="./img/linux.png">
@@ -88,13 +88,3 @@ If you have any questions, please feel free to reach out through any of the chan
     - Thermodynamics
     - Solid mechanics
 <br></br>
-
-
-# Channel
-
-1. [Resume](https://hyungkyukimdev.github.io/)   
-2. [Linkedin](https://www.linkedin.com/in/hyung-gyu-kim-202b991b8/)
-3. [Github](github.com/HyungkyuKimDev)  
-4. [Email](hyungkyukim.dev@gmail.com)
-5. [Blog](https://honoluulu-life.tistory.com/)
-

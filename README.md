@@ -15,18 +15,18 @@ If you have any questions, please feel free to reach out through any of the chan
 <br></br>
 
 # Stack
-## Programing
+## Programming
 ### Front Side
-<img src="./img/html.png"> , <img src="./img/css.png"> , <img src="./img/javascript.png"> 
+HTML , CSS , Javascript , Jquery
 
 ### Server Side & Database
-<img src="./img/python.png"> 
+Python , PHP , Laravel , Java11 , MariaDB
 
 ### Other 
-<img src="./img/git.png"> , <img src="./img/aws.png"> , <img src="./img/apache.png"> , <img src="./img/linux.png">
+Git , LINUX (REDHat)
 
 ### Communication Tool
-<img src="./img/slack.png">
+Slack
 
 <br></br>
 

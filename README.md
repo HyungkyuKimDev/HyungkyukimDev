@@ -20,9 +20,9 @@ If you have any questions, please feel free to reach out through any of the chan
 HTML , CSS , Javascript , Jquery
 
 ### Server Side & Database
-Python , PHP , Laravel , Java11 , MariaDB
+Python , PHP , Laravel , Java , Spring Boot , MariaDB
 
-### Other 
+### Other
 Git , LINUX (REDHat)
 
 ### Communication Tool

@@ -17,7 +17,7 @@ If you have any questions, please feel free to reach out through any of the chan
 # Stack
 ## Programming
 ### Front Side
-HTML , CSS , Javascript , Jquery
+HTML , CSS , Javascript , Jquery , React
 
 ### Server Side & Database
 Python , PHP , Laravel , Java , Spring Boot , MariaDB

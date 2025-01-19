@@ -44,6 +44,12 @@ Slack
 - I am proficient in English at a business level.
 <br></br>
 
+# Certification
+
+<b>Oracle Java Silver Se8<b>
+
+<b>JLPT N2</b>
+
 # Project
 1. [Chat Assistant](https://github.com/HyungkyuKimDev/Chat_Assistant)
     - Stack : Python , NaverCloud , ChatGPT

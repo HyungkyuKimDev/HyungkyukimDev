@@ -47,6 +47,11 @@ Slack
 
 <br>
 
+# 資格
+
+<b>Oracle Java Silver SE8</b>
+<b>JLPT N2</b>
+
 # プロジェクト
 
 1. [Chat Assistant](https://github.com/HyungkyuKimDev/Chat_Assistant)

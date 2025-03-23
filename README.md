@@ -9,7 +9,10 @@ If you have any questions, please feel free to reach out through any of the chan
 
 # Experience
 
-## [株式会社テンダ](https://www.tenda.co.jp/) (2024/04/01 ~ Now)
+## [株式会社テンダ](https://www.tenda.co.jp/) (2024/04/01 ~ 2025/03/31)
+- Software Engineer
+
+## [SMHC株式会社](https://smhc.co.jp/) (2025/05/01 ~ Now)
 - Software Engineer
 
 <br></br>

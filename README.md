@@ -2,7 +2,7 @@
 
 # About me
 
-Hi! I'm <b>Hyungkyu Kim</b>, a <b>Software Engineer</b>
+Hi! I'm <b>Hyungkyu Kim</b>, a <b>Cloud Engineer</b>
 I'd like to help people who have problems and trust that I can get better every single day!     
 If you have any questions, please feel free to reach out through any of the channels listed below this page. 
 <br></br>
@@ -11,6 +11,9 @@ If you have any questions, please feel free to reach out through any of the chan
 
 ## [株式会社テンダ](https://www.tenda.co.jp/) (2024/04/01 ~ 2025/03/31)
 - Software Engineer
+
+## [株式会社イノベクトリー](https://www.innovactory.co.jp/) (2025/06/02 ~ Now)
+- Cloud Engineer
 
 <br></br>
 
